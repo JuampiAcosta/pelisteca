@@ -40,7 +40,7 @@ app.use(function(err, req, res, next) {
 
 
 
-app.listen(3005,console.log("servido encendido en el localhost 3005"))
+app.listen(3005,console.log("http://localhost:3005/"))
 
 
 
